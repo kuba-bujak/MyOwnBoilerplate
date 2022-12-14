@@ -1,0 +1,9 @@
+@import 'config', 'menu', 'animations', 'responsive', 'footer';
+
+body {
+	font-family: $second-font-family;
+}
+
+main {
+	min-height: 100vh;
+}
